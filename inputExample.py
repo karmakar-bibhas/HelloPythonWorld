@@ -1,4 +1,3 @@
-
 # Input example
 inputName = input('Enter Name: ')
 inputAge = input('Enter Age: ')

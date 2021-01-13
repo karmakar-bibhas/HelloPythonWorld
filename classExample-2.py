@@ -1,4 +1,4 @@
-# class example with constructtor
+# class example with constructor
 
 class Point:
     def __init__(self, x, y):

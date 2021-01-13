@@ -13,7 +13,7 @@ print(course)
 course = '''
 Hi dev,
 
-this is a smaple email
+this is a sample email
 
 Thanks
 dev
